@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400"src="https://cdn.dribbble.com/users/331265/screenshots/2542587/gabi-d.gif">
 - 🌱 I’m currently learning **Backend Developement**
 
-- 💬 Ask me about **Web Technologies, BootStrap**
+- 💬 Ask me about **Web Development
 
 - 📫 How to reach me **kirtisingh112001@gmail.com**
 
