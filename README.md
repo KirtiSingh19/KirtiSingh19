@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Kirti Singh</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Web developer from India</h3>
 <img align="right" alt="coding" width="400"src="https://cdn.dribbble.com/users/331265/screenshots/2542587/gabi-d.gif">
 - 🌱 I’m currently learning **Backend Developement**
 
