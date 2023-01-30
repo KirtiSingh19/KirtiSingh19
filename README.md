@@ -45,10 +45,10 @@
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma" height="25"/> </a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="figma" width="40" height="25"/> </a> 
 <div>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=kirtisingh19&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=kirtisingh19&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" /></br>
 <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirtisingh19&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515&layout=compact" />
 
-</div><br/>
+</div>
 <div>
 <img align="center" width="47%"src="https://github-readme-streak-stats.herokuapp.com/?user=kirtisingh19&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="kirtisingh19"/>
 </div>
