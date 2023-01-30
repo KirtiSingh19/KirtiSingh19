@@ -23,7 +23,7 @@
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.linkedin.com/in/kirti-singh-a6236a234/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom:5px;" />
 </a>
 </div>  
 
@@ -50,5 +50,5 @@
 
 </div>
 <div>
-<img align="center" width="47%"src="https://github-readme-streak-stats.herokuapp.com/?user=kirtisingh19&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="kirtisingh19"/>
-</div>
+<img align="center" width="47%"src="https://github-readme-streak-stats.herokuapp.com/?user=kirtisingh19&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+
