@@ -30,20 +30,20 @@
 
 <h3 align="left"><b>Languages and Tools:</b></h3>
 <p align="left">
- <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c"  height="15"/> </a>
- <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" height="15" /></a>  
- <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"  height="15"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="15" /></a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" height="15"/> </a> 
-  <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" height="15" /></a>
-  <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" height="15" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" height="15" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="15" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" height="15" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" height="15" /></a>  
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman" height="15"/> </a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma" height="15"/> </a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="figma" height="15"/> </a> 
+ <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c"  height="20"/> </a>
+ <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" height="20" /></a>  
+ <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5"  height="20"/> </a>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" height="20" /></a> 
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind" height="20"/> </a> 
+  <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" height="20" /></a>
+  <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" height="20" /></a>  
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" height="20" /></a>  
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="20" /></a>  
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" height="20" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" height="20" /></a>  
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="postman" height="20"/> </a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma" height="20"/> </a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" alt="figma" height="20"/> </a> 
 <div>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=kirtisingh19&show_icons=true&title_color=aa336a&icon_color=aa336a&text_color=7EC8E3&bg_color=050A30" /></br>
 <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirtisingh19&show_icons=true&title_color=aa336a&icon_color=aa336a&text_color=7EC8E3&bg_color=050A30&layout=compact" />
